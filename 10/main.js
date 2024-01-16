@@ -1,7 +1,6 @@
 "use strict";
-// Addition
-const additionResult = 4 + 4;
-console.log("Addition Result: " + additionResult);
-// // Subtraction
-// const subtractionResult = 16 - 8;
-// console.log("Subtraction Result: " + subtractionResult);
+let names = ["Hammad", "Kounain", "Ibad", "Ahmed"];
+console.log(names[0]);
+console.log(names[1]);
+console.log(names[2]);
+console.log(names[3]);
