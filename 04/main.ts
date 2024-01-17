@@ -1,8 +1,8 @@
 
 //  Person Name in Variable
-let famousPerson = "Itachi Uciha"
+let famousPerson:const = "Itachi Uciha";
 
 // Persone Message in a Variable
-let messagE = "Time doesn't heals anything, it just teaches us how to live with the pain."
+let message:string = `"Time doesn't heals anything, it just teaches us how to live with the pain."`;
 
-console.log(`${famousPerson} Once sade, "${messagE}" `)
+console.log(`${famousPerson} once said, ${message} `)
