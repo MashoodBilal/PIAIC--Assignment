@@ -7,9 +7,9 @@ console.log(message)
 
 let guest = [
        "Hammad",
-        "Mashood",
-         "Momi",
-          "Kounain"];
+       "Mashood",
+       "Momi",
+       "Kounain"];
 
 // Adding New Name in the Beginning of Array
 
@@ -26,6 +26,7 @@ guest.unshift(newguest)
 
  guest.forEach((guest)=>
     {
-      console.log(`Dear ${guest}, I will like to invite you to dinner party on Saturday Night`)
-    }
+      console.log(`Dear ${guest}, I would like to invite you to dinner party on Saturday. `)
+    } // dinner is always in night...
+               // leave a line space after each line...
  )
